@@ -2626,8 +2626,8 @@ input, select, textarea {
 
 		ul.actions li {
 			padding: 0 0 0 1rem;
-			vertical-align: middle;
-		}
+			margin-top: -1rem;
+			vertical-align: top;		}
 
 		ul.actions.special {
 			-moz-justify-content: center;
